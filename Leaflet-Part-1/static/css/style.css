@@ -1,0 +1,22 @@
+html,
+body,
+#map {
+  height: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+h1, h3, h4 {
+  text-align: center;
+}
+
+.legend {
+  padding-left: 10px;
+  padding-right: 10px;
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 20px;
+  color: #555;
+  background-color: white;
+  border-radius: 5px;
+}
